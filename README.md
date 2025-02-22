@@ -1,6 +1,6 @@
 ### Hi, i'm cauaosp 👋
 
-Developer focused on expanding skills to develop end-to-end projects, from database to user interface.
+Developer focused on expanding skills to create end-to-end projects, from database to user interface.
 
 <div>
   <img alt="C#" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/C%23.svg" />
