@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou um desenvolvedor Full Stack
+I'm a Full Stack Developer
 
 <div>
   <img alt="C#" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/C%23.svg" />
@@ -19,16 +19,16 @@ Sou um desenvolvedor Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauaosp/)
 
-<!-- linhazinha -->
+<!-- line -->
 ##
 
-<!-- cobrinha -->
+<!-- snake animation -->
 <div>
 
   ![snake gif](https://github.com/cauaosp/cauaosp/blob/output/github-snake.svg)
 </div>
 
 
-<!-- streak -->
+<!-- streaks -->
 &nbsp;&nbsp;&nbsp;&nbsp;<img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cauaosp&theme=vue" alt="GitHub Streak" />
   
