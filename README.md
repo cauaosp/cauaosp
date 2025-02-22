@@ -25,7 +25,7 @@ Sou um desenvolvedor Full Stack
 <!-- cobrinha -->
 <div>
 
-![Snake animation](https://github.com/cauapaiva/cauapaiva/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/cauaosp/cauaosp/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
