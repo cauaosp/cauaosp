@@ -12,17 +12,9 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauaosp/)
+[![Visit My Site](https://img.shields.io/badge/webportfolio-red?style=for-the-badge)](https://webportifolios.vercel.app/)
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cauaosp&theme=vue" alt="GitHub Streak" />
+<img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cauaosp&theme=vue" alt="GitHub Streak" />
 
 ![snake gif](https://github.com/cauaosp/cauaosp/blob/output/github-snake.svg)
-
----
-<div>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/cauaosp/cauaosp/blob/output/github-snake.svg" />
-</div>
-
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
