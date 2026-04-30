@@ -2,22 +2,34 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake (with retry)
+        uses: nick-fields/retry@v3
         with:
-          github_user_name: cauaosp
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          max_attempts: 3
+          timeout_minutes: 5
+          command: |
+            npx @platane/snk \
+              --username cauaosp \
+              --output dist/github-contribution-grid-snake.svg \
+              --output dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Wait before deploy
+        run: sleep 5
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
