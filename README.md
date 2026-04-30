@@ -17,6 +17,4 @@
 
 <img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cauaosp&theme=vue" alt="GitHub Streak" />
 
-![snake gif](https://github.com/cauaosp/cauaosp/blob/output/github-snake.svg)
-<br />
 ![snake gif](https://raw.githubusercontent.com/cauaosp/cauaosp/output/github-snake.svg)
