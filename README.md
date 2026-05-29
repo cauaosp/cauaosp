@@ -1,6 +1,6 @@
 # Hi, i'm Cauã Paiva 👋
 
-### Developer focused on expanding skills to create DevOps projects
+### DevOps Developer studying cloud development
 
 <div> 
   <img alt="Flask" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Flask.svg">
