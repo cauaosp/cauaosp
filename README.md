@@ -1,20 +1,36 @@
 # Hi, i'm Cauã Paiva 👋
 
-### DevOps Developer studying cloud development
+### DevOps & Cloud Computing Student
 
-<div> 
-  <img alt="Flask" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Flask.svg">
-  <img alt="NextJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/NextJS.svg"> 
-  <img alt="MySQL" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/MySQL.svg">
-  <img alt="PostgreSQL" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg">
-  <img alt="Docker" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Docker.svg">
-  <img alt="aws" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/AWS.svg">
-</div>
+Cloud Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauaosp/)
-[![Visit My Site](https://img.shields.io/badge/webportfolio-red?style=for-the-badge)](https://webportifolios.vercel.app/)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+Code
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+
+Frameworks/Technologies
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ---
+<br /> 
 
-<img href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cauaosp&theme=vue" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=cauaosp&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![snake gif](https://raw.githubusercontent.com/cauaosp/cauaosp/output/github-snake.svg)
