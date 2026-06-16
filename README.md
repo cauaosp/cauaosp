@@ -30,6 +30,4 @@ Frameworks/Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cauaosp&theme=vue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ![snake gif](https://raw.githubusercontent.com/cauaosp/cauaosp/output/github-snake.svg)
