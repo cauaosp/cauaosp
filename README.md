@@ -1,4 +1,4 @@
-# Engenheiro de dados Júnior ⛃
+# Engenheiro de dados ⛃
 
 ### Olá! Sou o Cauã Paiva. ☕
 
@@ -13,6 +13,8 @@ Tenho experiência com desenvolvimento backend, bancos de dados, infraestrutura 
 ☁️ Infraestrutura: `Docker` • `Kubernetes` • `AWS`
 
 🌐 Desenvolvimento Web: `TypeScript` • `React` • `Next.js`
+
+🗃️ Versionamento: `Git` • `Gitlab`
 
 📚 Atualmente aprendendo: `Kotlin` • `Spring Boot`
 
