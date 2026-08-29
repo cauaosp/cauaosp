@@ -1,4 +1,4 @@
-# Engenheiro de dados Júnior 🎲
+# Engenheiro de dados Júnior ⛃
 
 ### Olá! Sou o Cauã Paiva. ☕
 
