@@ -6,7 +6,6 @@
 
 Tenho experiência com desenvolvimento backend, bancos de dados, infraestrutura e estou aprofundando meus conhecimentos em **engenharia de dados, Machine Learning e ETL**.
 
-
 ## 🧑‍💻 Stacks
 
 🐍 Backend & Dados: `Python` • `Flask` • `PostgreSQL` • `MySQL` • `Supabase`
@@ -17,8 +16,6 @@ Tenho experiência com desenvolvimento backend, bancos de dados, infraestrutura 
 
 📚 Atualmente aprendendo: `Kotlin` • `Spring Boot`
 
----
-
 ## 📫 Contato
 
 💼 LinkedIn: https://www.linkedin.com/in/cauaosp/
@@ -26,7 +23,5 @@ Tenho experiência com desenvolvimento backend, bancos de dados, infraestrutura 
 🌐︎ Portfólio: webportifolios.vercel.app
 
 📧 E-mail: cauaosp20@gmail.com
-
----
 
 ![snake gif](https://raw.githubusercontent.com/cauaosp/cauaosp/output/github-snake.svg)
