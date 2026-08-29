@@ -1,32 +1,40 @@
-# Hi, i'm Cauã Paiva 👋
+# Engenheiro de dados Júnior 🎲
 
-### DevOps & Cloud Computing Student
+### Olá! Sou o Cauã Paiva. ☕
 
-Cloud Development
+🎓 Estou no último semestre da graduação e direcionando minha carreira de **Desenvolvimento Full Stack para Engenharia de Dados**.
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white)](#)
-[![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops-white&logoColor=fff)](#)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+Tenho experiência com desenvolvimento backend, bancos de dados e infraestrutura e estou aprofundando meus conhecimentos em **engenharia de dados, Machine Learning e ETL**.
 
-Code
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+### 🧑‍💻 Stacks
 
-Frameworks/Technologies
+🐍 Backend & Dados
 
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+`Python` • `Flask` • `PostgreSQL` • `MySQL` • `Supabase`
+
+☁️ Infraestrutura
+
+`Docker` • `Kubernetes` • `AWS`
+
+🌐 Desenvolvimento Web
+
+`TypeScript` • `React` • `Next.js`
+
+📚 Atualmente aprendendo
+
+`Kotlin` • `Spring Boot`
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://www.linkedin.com/in/cauaosp/
+
+🌐︎ Portfólio: webportifolios.vercel.app
+
+📧 E-mail: cauaosp20@gmail.com
+
 ---
 
 ![snake gif](https://raw.githubusercontent.com/cauaosp/cauaosp/output/github-snake.svg)
