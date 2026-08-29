@@ -16,7 +16,7 @@ Tenho experiência em fintech, empresa júnior e hotelaria, atuando com o desenv
 
 🗃️ Versionamento: `Git` • `Gitlab`
 
-📚 Estudando: `Kotlin` • `Spring Boot`
+📚 Estudando: `Kotlin` • `Spring Boot` •`Scikit-learn`
 
 ## 📫 Contato
 
