@@ -4,7 +4,7 @@
 
 🎓 Estou no último semestre da graduação e direcionando minha carreira de **Desenvolvimento Full Stack para Engenharia de Dados**.
 
-Tenho experiência em fintechs, empresa júnior e hotelaria, atuando com o desenvolvimento backend, bancos de dados e infraestrutura de servidores, atualmente estou aprofundando meus conhecimentos em **Web Scrapping, Machine Learning e ETL**.
+Tenho experiência em fintech, empresa júnior e hotelaria, atuando com o desenvolvimento backend, bancos de dados e infraestrutura de servidores, atualmente estou aprofundando meus conhecimentos em **Web Scrapping, Machine Learning e ETL**.
 
 ## 🧑‍💻 Stacks
 
