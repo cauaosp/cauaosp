@@ -7,7 +7,7 @@
 Tenho experiência com desenvolvimento backend, bancos de dados, infraestrutura e estou aprofundando meus conhecimentos em **engenharia de dados, Machine Learning e ETL**.
 
 
-### 🧑‍💻 Stacks
+## 🧑‍💻 Stacks
 
 🐍 Backend & Dados: `Python` • `Flask` • `PostgreSQL` • `MySQL` • `Supabase`
 
