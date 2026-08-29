@@ -4,26 +4,18 @@
 
 🎓 Estou no último semestre da graduação e direcionando minha carreira de **Desenvolvimento Full Stack para Engenharia de Dados**.
 
-Tenho experiência com desenvolvimento backend, bancos de dados e infraestrutura e estou aprofundando meus conhecimentos em **engenharia de dados, Machine Learning e ETL**.
+Tenho experiência com desenvolvimento backend, bancos de dados, infraestrutura e estou aprofundando meus conhecimentos em **engenharia de dados, Machine Learning e ETL**.
 
 
 ### 🧑‍💻 Stacks
 
-🐍 Backend & Dados
+🐍 Backend & Dados: `Python` • `Flask` • `PostgreSQL` • `MySQL` • `Supabase`
 
-`Python` • `Flask` • `PostgreSQL` • `MySQL` • `Supabase`
+☁️ Infraestrutura: `Docker` • `Kubernetes` • `AWS`
 
-☁️ Infraestrutura
+🌐 Desenvolvimento Web: `TypeScript` • `React` • `Next.js`
 
-`Docker` • `Kubernetes` • `AWS`
-
-🌐 Desenvolvimento Web
-
-`TypeScript` • `React` • `Next.js`
-
-📚 Atualmente aprendendo
-
-`Kotlin` • `Spring Boot`
+📚 Atualmente aprendendo: `Kotlin` • `Spring Boot`
 
 ---
 
