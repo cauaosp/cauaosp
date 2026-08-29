@@ -20,7 +20,7 @@ Tenho experiência com desenvolvimento backend, bancos de dados, infraestrutura 
 
 💼 LinkedIn: https://www.linkedin.com/in/cauaosp/
 
-🌐︎ Portfólio: webportifolios.vercel.app
+🌐︎ Portfólio: https://webportifolios.vercel.app/
 
 📧 E-mail: cauaosp20@gmail.com
 
