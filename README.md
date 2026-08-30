@@ -1,12 +1,12 @@
-# Engenheiro de dados ⛃
+# Engenheiro de dados ⛃⛂
 
-### Olá! Sou o Cauã Paiva. ☕
+## 🎓 Olá! Sou o Cauã Paiva.
 
-🎓 Estou no último semestre da graduação em ADS e direcionando minha carreira de **Desenvolvimento Full Stack para Engenharia de Dados**.
+Estou no último semestre da graduação em ADS e direcionando minha carreira de **Desenvolvimento Full Stack para Engenharia de Dados**.
 
 Ao longo da minha experiência em fintech, empresa júnior e hotelaria, trabalhei com backend, bancos de dados e redes. Atualmente, estou aprofundando meus conhecimentos em **Web Scrapping, Machine Learning e ETL**.
 
-## 🧑‍💻 Stacks
+## 💼 Stacks
 
 🐍 Backend & Dados: `Python` • `Flask` • `PostgreSQL` • `MySQL` • `Supabase`
 
