@@ -20,10 +20,10 @@ Ao longo da minha experiência em fintech, empresa júnior e hotelaria, trabalhe
 
 ## 📫 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/cauaosp/
+🔹 LinkedIn: https://www.linkedin.com/in/cauaosp/
 
-🌐︎ Portfólio: https://webportifolios.vercel.app/
+🔹 Webportfolio: https://webportifolios.vercel.app/
 
-📧 E-mail: cauaosp20@gmail.com
+🔹 E-mail: cauaosp20@gmail.com
 
 ![snake gif](https://raw.githubusercontent.com/cauaosp/cauaosp/output/github-snake.svg)
