@@ -12,7 +12,7 @@ Ao longo da minha experiência em fintech, empresa júnior e hotelaria, trabalhe
 
 ☁️ Infraestrutura: `Docker` • `Kubernetes` • `AWS`
 
-🌐 Desenvolvimento Web: `TypeScript` • `React` • `Next.js`
+🌐 Desenvolvimento Web: `TypeScript` • `React` • `Next.js` • `Bun`
 
 🗃️ Versionamento: `Git` • `Gitlab`
 
