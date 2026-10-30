@@ -14,7 +14,7 @@ Ao longo da minha experiência em fintech, empresa júnior e hotelaria, trabalhe
 
 🌐 Desenvolvimento Web: `TypeScript` • `React` • `Next.js` • `Node` • `Bun` • `TailwindCSS`
 
-🗃️ Versionamento: `Git` • `Gitlab`
+🗃️ Versionamento: `Git` • `Gitlab` • `Azure DevOps`
 
 📚 Estudando: `Kotlin` • `Spring Boot` •`Scikit-learn`
 
